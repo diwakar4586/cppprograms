@@ -30,6 +30,7 @@ int main() {
             }
         }
         prev = current;
+        // kjfkjdfkdjfdk
     }
     cout << "true";
 }
